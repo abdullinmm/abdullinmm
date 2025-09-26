@@ -1,4 +1,4 @@
-Senior Backend Developer • Go, PostgreSQL, Docker, Kubernetes, CI/CD
+Backend Developer • Go, PostgreSQL, Docker, Kubernetes, CI/CD
 
 Backend developer with 6+ years of experience in the financial sector. Specialized in optimizing p95 latency and building scalable, fault-tolerant services using Go 1.22+, PostgreSQL, Docker, Kubernetes, and CI/CD. Experienced in backend development for major Russian banks including VTB and Renaissance Credit.
 
