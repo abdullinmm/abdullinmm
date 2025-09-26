@@ -8,7 +8,4 @@ Focused on delivering robust and maintainable solutions that improve business pr
 
 Currently expanding expertise in AI development tools and cloud-native technologies.
 
-📫 Reach me:  
-- Email: abdullinmm@gmail.com  
-- Telegram: @abdullin_marsel  
-- LinkedIn: https://www.linkedin.com/in/marsel-abdullin-291238121/
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/marsel-abdullin-291238121/) • [Email](mailto:abdullinmm@gmail.com) • [Resume](https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_ID/view)
