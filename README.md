@@ -1,6 +1,6 @@
 # Marsel Abdullin — Backend Developer (Go, PostgreSQL, Docker, Kubernetes, CI/CD)
 
-**Location:** Kazan, Russia  
+**Location:** Dubai, UAE  
 **Email:** [abdullinmm@gmail.com](mailto:abdullinmm@gmail.com)  
 **LinkedIn:** [marsel-abdullin-291238121](https://www.linkedin.com/in/marsel-abdullin-291238121/)  
 **Telegram:** [@abdullin_marsel](https://t.me/abdullin_marsel)  
